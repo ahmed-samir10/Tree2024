@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.exe
+C:\Users\dell\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.deps.json
+C:\Users\dell\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.runtimeconfig.json
+C:\Users\dell\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.dll
+C:\Users\dell\source\repos\Tree\Tree\bin\Debug\net8.0\Tree.pdb
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.AssemblyInfo.cs
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.dll
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\refint\Tree.dll
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.pdb
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\Tree.genruntimeconfig.cache
+C:\Users\dell\source\repos\Tree\Tree\obj\Debug\net8.0\ref\Tree.dll
